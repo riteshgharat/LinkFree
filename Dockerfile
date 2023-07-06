@@ -1,4 +1,4 @@
-FROM node:16.19.1-bullseye-slim
+FROM node:gallium-bullseye-slim
 LABEL org.opencontainers.image.source https://github.com/eddiehubcommunity/LinkFree
 
 WORKDIR /usr/src/app
